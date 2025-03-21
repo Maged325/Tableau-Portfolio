@@ -12,4 +12,4 @@
 #### View the files below:
 
 1. the dataset [([House_Data.csv])](https://github.com/Maged325/Tableau-Portfolio/blob/main/Project_2/HouseData.xlsx) file.
-2. Final Dashboard using Tableau [(Project_3. Dashbaord.twbx)]([(https://github.com/Maged325/Tableau-Portfolio/blob/main/Project_2/Project_2_%20KingCountyHouseSales.twbx)]) file.
+2. Final Dashboard using Tableau [(Project_3. Dashbaord.twbx)](https://github.com/Maged325/Tableau-Portfolio/blob/main/Project_2/Project_2_%20KingCountyHouseSales.twbx) file.
