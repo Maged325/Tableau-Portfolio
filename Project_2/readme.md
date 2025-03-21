@@ -5,11 +5,11 @@
 ### The dashboard contains six visuals: a heatmap, a line chart with average house prices, and a map chart to track the average price in the US, as well as 3 histograms, distribution of house prices, bathrooms, and bedrooms.
 
 ### The final dashboard using Tableau are available below:
+![KingCountyHouseSales](https://github.com/user-attachments/assets/822345f7-b042-4190-9ecc-9ec9cf03d560)
 
-![1742524864814](image/readme/1742524864814.png)
 
 
 #### View the files below:
 
-1. the dataset file.
-2. Final Dashboard using Tableau (.twbx) file.
+1. the dataset [([House_Data.csv])](https://github.com/Maged325/Tableau-Portfolio/blob/main/Project_2/HouseData.xlsx) file.
+2. Final Dashboard using Tableau [(Project_3. Dashbaord.twbx)](https://github.com/Maged325/Tableau-Portfolio/blob/main/Project_2/Project_3%20Gender%20and%20Salary%20Comparison%20of%20Employees.twbx) file.
