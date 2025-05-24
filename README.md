@@ -48,8 +48,9 @@ This repository showcases interactive dashboards and insightful data visualizati
 
 🔍 Data Filters & Hierarchies
 
-📁 CSV / Excel Datasets
+📁 CSV/ Excel Data sets
 ---
 🤝 **Connect with Me**
 
 🔗 LinkedIn – [Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
+
