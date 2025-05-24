@@ -50,7 +50,7 @@ This repository showcases interactive dashboards and insightful data visualizati
 
 📁 CSV/ Excel Data sets
 
-🤝 **Connect with Me**
+## 🤝 **Connect with Me**
 
 🔗 LinkedIn – [Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
 
