@@ -2,7 +2,7 @@
 Welcome to my Tableau Portfolio!
 This repository showcases interactive dashboards and insightful data visualizations created using Tableau Desktop, designed to uncover key patterns, trends, and actionable insights from real-world datasets.
 
-## 🔍 Projects Included
+## 🔍 **Projects Included**
 
 | 🗂 Project                         | 📋 Description |
 |----------------------------------|----------------|
@@ -33,7 +33,7 @@ This repository showcases interactive dashboards and insightful data visualizati
 
 🔗 Easy connection to diverse data sources (CSV, Excel, SQL, Google Sheets, etc.)
 
-🛠️ Rapid data prep and blending with drag-and-drop interface
+🛠️ Rapid data preparation and blending with drag-and-drop interface
 
 🌍 Geo-mapping for spatial data analysis
 
@@ -51,6 +51,12 @@ This repository showcases interactive dashboards and insightful data visualizati
 📁 CSV/ Excel Data sets
 
 ## 🤝 **Connect with Me**
+
+## 📊 **View my Tableau Public portfolio** — clickable dashboards demonstrating analysis, viz, and insights.
+[Project 1](https://public.tableau.com/app/profile/maged.fouad/viz/Project_1BritishAirwaysReviews/Dashboard1) : British Airways Reviews
+[Project 2](https://public.tableau.com/app/profile/maged.fouad/viz/Project_2KingCountyHouseSales/KingCountyHouseSales) : KingCountyHouseSales
+[Project 3](https://public.tableau.com/app/profile/maged.fouad/viz/Project_3GenderandSalaryComparisonofEmployees/Dashboard1) : Gender and Salary Comparison of Employees
+[Project 4](https://public.tableau.com/app/profile/maged.fouad/viz/Project_4LondonBikeRides/Dashboard1) : London Bike Rides
 
 🔗 LinkedIn – [Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
 
