@@ -52,7 +52,8 @@ This repository showcases interactive dashboards and insightful data visualizati
 
 ## 🤝 **Connect with Me**
 
-## 📊 **View my Tableau Public portfolio** — clickable dashboards demonstrating analysis, viz, and insights.
+### 📊 **View my Tableau Public portfolio** — clickable dashboards demonstrating analysis, viz, and insights.
+
 [Project 1](https://public.tableau.com/app/profile/maged.fouad/viz/Project_1BritishAirwaysReviews/Dashboard1) : British Airways Reviews
 
 [Project 2](https://public.tableau.com/app/profile/maged.fouad/viz/Project_2KingCountyHouseSales/KingCountyHouseSales) : KingCountyHouseSales
